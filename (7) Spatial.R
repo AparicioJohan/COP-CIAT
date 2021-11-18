@@ -275,7 +275,7 @@ spat_bic <- BIC(mo_spatial)
 
 stats_g <- c(crd_g, rcbd_g, alpha_g,rc_g, rc_alpha_g, spat_g)
 stats_e <- c(crd_e, rcbd_e, alpha_e, rc_e, rc_alpha_e, spat_e)
-stats_h2 <- c(crd_h2, rcbd_h2, alpha_h2, rc_alpha_h2, rc_alpha_h2, spat_h2)
+stats_h2 <- c(crd_h2, rcbd_h2, alpha_h2, rc_h2, rc_alpha_h2, spat_h2)
 stats_r2 <- c(crd_r2, rcbd_r2, alpha_r2, rc_r2, rc_alpha_r2, spat_r2)
 stats_aic <- c(crd_aic, rcbd_aic, alpha_aic, rc_aic, rc_alpha_aic, spat_aic)
 stats_bic <- c(crd_bic, rcbd_bic, alpha_bic, rc_bic, rc_alpha_bic, spat_bic)
